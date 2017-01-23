@@ -29,6 +29,7 @@ ol, ul {
   padding: 0;
   text-align: center;
   width: 50px;
+  user-select: none;
 }
 
 .square:focus {
