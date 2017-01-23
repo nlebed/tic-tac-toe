@@ -12,4 +12,4 @@ npm start
 <br/>
 npm test
 
-2. Open url http://localhost:8000/test/ or http://localhost:8080/webpack-dev-server/test in a browser.
+2. Open url http://localhost:8000/test/ or http://localhost:8000/webpack-dev-server/test in a browser.
